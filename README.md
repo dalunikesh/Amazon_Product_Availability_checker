@@ -1,4 +1,4 @@
-# Amazon Product Availability Checker
+└── README.md# Amazon Product Availability Checker
 
 ## 📌 Project Description
 
@@ -39,4 +39,6 @@ Amazon_Product_Availability_checker/
 ├── requirements.txt
 ├── test_email.py
 ├── .gitignore
-└── README.md
+├── README.md
+└── Screenshot/
+    └── project_output.png

@@ -42,3 +42,7 @@ Amazon_Product_Availability_checker/
 ├── README.md
 └── Screenshot/
     └── project_output.png
+## 📸 Example Output
+
+![Amazon Product Availability Checker](Screenshot/project_output.png)
+
